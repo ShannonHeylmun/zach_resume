@@ -9,7 +9,6 @@
   homepage: fa-home(fill: styles.colors.accent),
   linkedin: fa-linkedin(fill: styles.colors.accent),
   github: fa-github(fill: styles.colors.accent),
-  xing: fa-xing(),
   mail: fa-envelope(fill: styles.colors.accent)
 )
 
@@ -33,6 +32,11 @@
       text: [zach\@voidstarsolutions.com],
       link: "mailto://zach\@voidstarsolutions.com"
     ),
+    (
+      icon: icons.phone,
+      text: [402-981-6819],
+      link: "tel://+1-402-981-6819"
+    )
   ),
   profile-picture: image("media/avatar.jpg")
 )
@@ -154,7 +158,7 @@
   company-or-university: "OSS",
   logo: image("media/github.png"),
   description: list(
-    [Rust: Active contributor to embedded ecosystem, drivers, RSA, Rust Analyzer],
+    [Active contributor to Rust OSS, including the embedded ecosystem, drivers, RSA, Rust Analyzer],
     [Hardware: Open source hardware to improve safety in challenging technical diving environments],
     [CNC/3D Printing: Designed and built a variety of 3D printers and CNC routers for the escape room and other fabrication projects]
   )

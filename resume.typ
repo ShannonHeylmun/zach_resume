@@ -101,8 +101,8 @@
   location: " Orlando, FL",
   logo: image("media/voidstar.jpg"),
   description: list(
-    [Successful deliveries in a variety of domains: financial data, virtual real estate, social networking, and IoT hardware ecosystems],
-    [Developed web applications, embedded systems, backend services, and data analytics, as well as mobile and desktop applications],
+    [Successful deliveries in a variety of domains: financial data, virtual real estate, social networking, and IoT hardware],
+    [Developed web applications, embedded systems, backend services, and analytics, alongside mobile and desktop software],
     [In 6 years of active operation, every single development contract was extended or expanded upon delivery],
     [Ceased active operations in 2019 after accepting a full time role at Luminar Technologies as Embedded Systems Architect]
   )

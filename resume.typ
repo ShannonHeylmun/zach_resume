@@ -73,7 +73,7 @@
   description: list(
     [Developed app development curriculum for high school students],
     [Developed CNC assembly and usage curriculum for high school students],
-    [Contributed extensively to the Army's open source GIFT (Generalized Intelligent Framework for Tutoring) program],
+    [Contributed extensively to the Army's open source  Generalized Intelligent Framework for Tutoring],
     [Developed enrichment technologies for Nemours Children's Hospitals],
     [Donated STEM teambuilding experiences to students through Digital Escape Velocity]
   )
@@ -86,10 +86,10 @@
   location: " Orlando, FL",
   logo: image("media/dev.jpg"),
   description: list(
-    [Developed state of the art immersive escape rooms],
-    [Utilized IoT technologies to enhance the user experience, eliminating elements which detract from the immersion],
-    [Enabled various levels of difficulty and customization for each escape room],
-    [Developed a modular escape room with VR, touch, and physical interfaces to enable diverse experiences in the same room]
+    [Developed state-of-the-art, immersive escape rooms],
+    [Employed IoT technologies to enhance user experience],
+    [Developed a room with networked VR, touch, and mechanicsl interfaces],
+    [Devised various levels of difficulty and customization]
   )
 )
 
